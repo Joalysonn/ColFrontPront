@@ -1,0 +1,33 @@
+{
+	"info": {
+		"_postman_id": "71861ba9-ce62-4dbc-8388-08de56f07d6d",
+		"name": "ColFrontProntuario",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "45750598",
+		"_collection_link": "https://joalyson.postman.co/workspace/Joalyson's-Workspace~6aaa830b-5417-4d7c-8b93-99d418cb6e88/collection/45750598-71861ba9-ce62-4dbc-8388-08de56f07d6d?action=share&source=collection_link&creator=45750598"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "52.15.149.236:80/api/prontuarios",
+					"host": [
+						"52",
+						"15",
+						"149",
+						"236"
+					],
+					"port": "80",
+					"path": [
+						"api",
+						"prontuarios"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
